@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./rachit_banner_updated_1500x400.png" alt="Rachit Maharshi - Developer and Creator" width="100%">
+</p>
+
 <div align="center">
 
 # Hey, I'm Rachit Maharshi 👋
