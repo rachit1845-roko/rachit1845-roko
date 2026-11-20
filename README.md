@@ -29,7 +29,7 @@
 Curious mind. Lifelong learner.  
 Building things one project at a time. ⚡
 
-📍 Bharatpur, Rajasthan, India
+📍 Sikar, Rajasthan, India
 
 <br/>
 
@@ -53,17 +53,34 @@ I love exploring technology, building interesting projects, experimenting with i
 
 ---
 
-## 🚀 CURRENTLY EXPLORING
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<h2>🚀 CURRENTLY EXPLORING</h2>
 
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge" />
+<p>
+  <a href="https://git-scm.com/doc">
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+
+  <a href="https://www.ibm.com/think/topics/artificial-intelligence">
+    <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development">
+    <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-0969DA?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
 
 ## 🎯 WHAT I'M AIMING FOR
 
