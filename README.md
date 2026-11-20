@@ -17,15 +17,118 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-Hey! I'm Rachit, an aspiring developer who enjoys exploring technology, experimenting with ideas, and creating things.
+---
 
-- 🌱 Learning and improving my development skills.
-- 💡 Interested in building websites, applications, and useful tools.
-- 🚀 Exploring AI, software, and modern technologies.
-- 🎨 I also enjoy creative projects, storytelling, and design.
-- 🎯 My goal is to turn ideas into real-world projects.
+<h2 align="center">⚡ ABOUT ME</h2>
+
+<p align="center">
+  I'm Rachit — an aspiring developer, creator, and lifelong learner.
+  <br>
+  I enjoy exploring technology, experimenting with ideas, and turning concepts into reality.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎯 WHAT I'M AIMING FOR</h3>
+
+- Building practical projects
+- Improving my programming skills
+- Exploring modern technologies
+- Creating useful applications
+- Growing as a developer
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💡 BEYOND TECHNOLOGY</h3>
+
+- 🎬 Anime & Manga
+- 📖 Reading & Writing
+- ⚽ Football
+- 🎨 Creative Design
+- 🤖 Artificial Intelligence
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ TECHNOLOGY & TOOLS</h2>
+
+<p align="center">
+  <i>My development journey starts here.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always-Learning-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-In%20Progress-181818?style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center">🚀 MY DEVELOPMENT JOURNEY</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <h3>01</h3>
+  <b>LEARN</b>
+  <br>
+  <sub>Understand the fundamentals</sub>
+</td>
+<td align="center" width="33%">
+  <h3>02</h3>
+  <b>BUILD</b>
+  <br>
+  <sub>Turn knowledge into projects</sub>
+</td>
+<td align="center" width="33%">
+  <h3>03</h3>
+  <b>GROW</b>
+  <br>
+  <sub>Improve through experience</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📌 FEATURED PROJECTS</h2>
+
+<p align="center">
+  <i>Every great project starts with an idea.</i>
+  <br><br>
+  More projects coming soon. Stay tuned!
+</p>
+
+---
+
+<h2 align="center">🤝 CONNECT WITH ME</h2>
+
+<p align="center">
+  <a href="https://github.com/rachit1845-roko">
+    <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>Dream it. Build it. Improve it.</b>
+  <br>
+  <sub>Learning in public. Building with purpose. ⚡</sub>
+</p>
 
 ## 🔭 What I'm Working Towards
 
