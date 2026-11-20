@@ -11,7 +11,9 @@
 
 *Curious mind. Lifelong learner. Building things one project at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachitmaharshi)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachit1845-roko)
+
 
 </div>
 
